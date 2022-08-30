@@ -5,4 +5,4 @@ past, present or future. The planner should also be able to save data inputted i
 ![A screenshot showing my work day scheduler page.](./assets/images/schedulerSS.png)
 ![A screenshot showing my work day scheduler page.](./assets/images/schedulerSS2.png)
 
-[Link to Website](https://wolfgang978.github.io/Horiseon-code-refactor/ "Horiseon Code Refactor")
+[Link to Website](https://wolfgang978.github.io/work-Day-Scheduler/ "Work Day Scheduler")
